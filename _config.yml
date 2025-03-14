@@ -10,6 +10,7 @@ plugins:
 
 title: "Suhil Roshan | AI Specialist"
 description: "Welcome to my portfolio website"
-
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 include: ["_pages"]
+search: true
+breadcrumbs: true
