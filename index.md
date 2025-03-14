@@ -1,7 +1,6 @@
 ---
-layout: splash
+layout: home
 title: "Welcome to My AI Portfolio"
-description: "AI Engineer | Data Science Specialist | Tech Innovator"
 author_profile: true
 header:
   overlay_color: "#000"
