@@ -1,0 +1,55 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a2e;
+    color: #fff;
+    text-align: center;
+    scroll-behavior: smooth;
+}
+header {
+    background: #0f3460;
+    padding: 20px;
+    font-size: 28px;
+    font-weight: 700;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(2, 50vh);
+    gap: 10px;
+    padding: 80px 20px 20px;
+}
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+    background-size: cover;
+    background-position: center;
+    transition: transform 0.3s;
+}
+.section:hover {
+    transform: scale(1.05);
+}
+#about { background-image: url('https://source.unsplash.com/800x600/?tech,person'); }
+#experience { background-image: url('https://source.unsplash.com/800x600/?city,buildings'); }
+#projects { background-image: url('https://source.unsplash.com/800x600/?coding,technology'); }
+#certifications { background-image: url('https://source.unsplash.com/800x600/?awards,achievement'); }
+.footer {
+    background: #0f3460;
+    color: #fff;
+    padding: 15px;
+    margin-top: 30px;
+}
