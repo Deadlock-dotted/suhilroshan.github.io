@@ -1,19 +1,19 @@
 ---
-layout: home
-title: "Welcome to My Portfolio"
+layout: splash
+title: "Welcome to My AI Portfolio"
+description: "AI Engineer | Data Science Specialist | Tech Innovator"
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "https://source.unsplash.com/1600x900/?technology,ai"
 ---
 
-Hi, I'm **Suhil Roshan**, an AI & Data Science Specialist.  
-Explore my **projects, experience, and skills** below.
+🚀 **Hello! I’m Suhil Roshan**, a passionate AI & Data Science Specialist.  
+I work on cutting-edge **AI solutions, machine learning models, and data-driven insights**.
 
-## 🔹 About Me
-- AI Engineer at an international NGO  
-- Expertise in **Machine Learning, Python, and Big Data**  
+🔹 **Expertise**: AI, ML, Python, Cloud, Big Data  
+🔹 **Recent Projects**: Home Insurance Retention Model, AI Chatbots, FinTech AI  
 
-## 🔹 Featured Projects
-- Home Insurance Retention Model  
-- Airline Customer Prediction Model  
-- Cryptocurrency Exchange (HackerCoini)
-
-**[📌 LinkedIn](https://linkedin.com/in/suhilroshan)**
+## 📌 Featured Work
+{% include feature_row id="projects" %}
