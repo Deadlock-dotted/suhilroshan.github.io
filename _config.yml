@@ -3,6 +3,13 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
 
 title: "Suhil Roshan | AI Specialist"
 description: "Welcome to my portfolio website"
+
+minimal_mistakes_skin: "default"
+include: ["_pages"]
