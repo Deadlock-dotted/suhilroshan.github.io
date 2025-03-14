@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -9,8 +9,9 @@ plugins:
   - jekyll-archives
 
 title: "Suhil Roshan | AI Specialist"
-description: "Welcome to my portfolio website"
+description: "Welcome to my AI portfolio"
 minimal_mistakes_skin: "dark"
+
 include: ["_pages"]
 search: true
 breadcrumbs: true
