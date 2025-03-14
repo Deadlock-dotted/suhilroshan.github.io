@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Welcome to My Portfolio"
+author_profile: true
 ---
 
-# Welcome to My Portfolio
 Hi, I'm **Suhil Roshan**, an AI & Data Science Specialist.  
 Explore my **projects, experience, and skills** below.
 
