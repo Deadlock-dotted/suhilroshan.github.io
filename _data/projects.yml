@@ -1,0 +1,14 @@
+- name: "Home Insurance Retention Model"
+  url: "#"
+  description: "An AI-driven model to predict customer retention."
+  image: "https://source.unsplash.com/600x400/?insurance"
+
+- name: "Cryptocurrency Exchange (HackerCoini)"
+  url: "#"
+  description: "A secure crypto exchange platform."
+  image: "https://source.unsplash.com/600x400/?cryptocurrency"
+
+- name: "Airline Customer Prediction Model"
+  url: "#"
+  description: "An ML model to predict airline customer behavior."
+  image: "https://source.unsplash.com/600x400/?airline"
